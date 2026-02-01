@@ -6,7 +6,7 @@
     <title>Tic-Tac-Toe Universe</title>
     <style>
         :root {
-            --bg: #f0f2f5;
+            --bg: #b4b6ba;
             --card: #ffffff;
             --primary: #2d3436;
             --accent: #f1c40f;
