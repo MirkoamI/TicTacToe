@@ -16,4 +16,4 @@ A 9x9 board made of nine smaller 3x3 grids.
 - The AI here uses Alpha-Beta pruning. It isn't "perfect" like the classic one because the game is too complex, but it looks several moves ahead and plays aggressively.
 
 HOW TO PLAY
-Just open the .html file in any browser (Chrome, Firefox, Safari, etc.).
+Just open the .php file in any browser (Chrome, Firefox, Safari, etc.).
